@@ -1,12 +1,12 @@
 [
     {
-        "name": "Ananya Muttagi",
-        "phone": "1234567899",
-        "email": "ananya@gmial.com"
+        "name": "Aditya Muttagi",
+        "phone": "1234567890",
+        "email": "example@gmail.com"
     },
     {
-        "name": "Aditya Muttagi",
-        "phone": "2623992228",
-        "email": "muttagi.05@gmail.com"
+        "name": "Elon Musk",
+        "phone": "0987654321",
+        "email": "example@gmail.com"
     }
 ]
